@@ -11,4 +11,4 @@ Refer to the war/index.jsp file for the source code.
 
 There is not much to it but it demonstrates that if you have an AppEngine application and need access to the location information for the incoming request, you do not need to juggle much with the IP Address and make some additional network calls. 
 
-Blog Post : http://www.rominirani.com/2012/04/25/appengine-location-detection-update-x-appengine-country-and-more/
+Blog Post on this feature : http://www.rominirani.com/2012/04/25/appengine-location-detection-update-x-appengine-country-and-more/
